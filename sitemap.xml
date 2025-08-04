@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://www.wenostr.com/</loc><priority>1.0</priority></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>https://wenostr.com/</loc>
+</url>
+<url>
+  <loc>https://wenostr.com/faq/</loc>
+</url>
+<url>
+  <loc>https://wenostr.com/news/</loc>
+</url>
+<url>
+  <loc>https://wenostr.com/news/hello/</loc>
+  <lastmod>2025-08-03</lastmod>
+</url>
+<url>
+  <loc>https://wenostr.com/page/1/</loc>
+</url>
+</urlset>
