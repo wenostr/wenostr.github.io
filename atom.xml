@@ -8,7 +8,7 @@
     <updated>2025-08-03T00:00:00+00:00</updated>
     <id>https://wenostr.com/atom.xml</id>
     <entry xml:lang="en">
-        <title>Title</title>
+        <title>Hello world</title>
         <published>2025-08-03T00:00:00+00:00</published>
         <updated>2025-08-03T00:00:00+00:00</updated>
         
@@ -23,9 +23,8 @@
         <link rel="alternate" type="text/html" href="https://wenostr.com/news/hello/"/>
         <id>https://wenostr.com/news/hello/</id>
         
-        <summary type="html">&lt;p&gt;Summary&amp;hellip;
-&lt;&#x2F;p&gt;
-</summary>
+        <content type="html" xml:base="https://wenostr.com/news/hello/">&lt;p&gt;So what does this name of the website actually mean? Well, &lt;strong&gt;we&lt;&#x2F;strong&gt; are at very early stage of developing a &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nostr.org&quot;&gt;nostr&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; based P2P neighborhood marketplace. It is not even &quot;we&quot; yet, just a sole developer posting this to test the site...&lt;&#x2F;p&gt;
+</content>
         
     </entry>
 </feed>
