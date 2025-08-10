@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
 Allow: /
-Sitemap: https://wenostr.com/sitemap.xml
+
+Sitemap: https://www.wenostr.com/sitemap.xml
